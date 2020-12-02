@@ -1,1 +1,1 @@
-Simple Java implementation of minesweeper
+Simple JavaScript implementation of a calculator
